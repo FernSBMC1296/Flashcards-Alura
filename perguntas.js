@@ -51,9 +51,3 @@ criaCartao(
     'Quantos polígonos tem o segundo modelo do Sonic com mais polígonos?',
     '19887 polígonos'
 )
-
-criaCartao(
-    '????',
-    'Durante uma das aulas de P.E (práticas experimentais), Rodrigo notou um comportamento "esquisito" entre um grupo de alunos. Ele foi conferir o que se tratava e Ricardo explicou que Gabriela havia trincado a tela de seu celular. Como foi que a Gabriela quebrou o celular?',
-    'Ela teve a capacidade de quebrar seu celular batendo ele em sua testa por desespero da burrice de Ricardo (desculpa o tamanho da pergunta é que a Nicole é esquisita)'
-)
