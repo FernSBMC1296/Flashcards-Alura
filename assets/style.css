@@ -2,12 +2,11 @@
     --text-color: #DBE4EF;
     --card-front-color: #581200;
     --card-back-color: #1a9159;
-    --card-margin-color:#687234;
 }
 
 body {
     background: url('img/bg-desktop.webp');
-    font-family: Lilita One, sans-serif;
+    font-family: Bai Jamjuree;
 }
 
 #container {
